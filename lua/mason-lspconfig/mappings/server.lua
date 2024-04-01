@@ -178,6 +178,7 @@ M.lspconfig_to_package = {
     ["tflint"] = "tflint",
     ["theme_check"] = "shopify-theme-check",
     ["thriftls"] = "thriftls",
+    ["tinymist"] = "tinymist",
     ["tsserver"] = "typescript-language-server",
     ["twiggy_language_server"] = "twiggy-language-server",
     ["typos_lsp"] = "typos-lsp",

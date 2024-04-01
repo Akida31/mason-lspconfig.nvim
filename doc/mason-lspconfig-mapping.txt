@@ -181,6 +181,7 @@ typescript-language-server                tsserver
 twiggy-language-server                    twiggy_language_server
 typos-lsp                                 typos_lsp
 typst-lsp                                 typst_lsp
+tinymist                                  tinymist
 unocss-language-server                    unocss
 v-analyzer                                v_analyzer
 vacuum                                    vacuum
